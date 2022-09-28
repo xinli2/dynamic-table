@@ -1,10 +1,6 @@
 # Dynamic Tables
 
 
-In this assignment we try to verify if the idea of doubling a dynamic array every time it needs to be resized is a winning strategy in terms of performance.
-
-NOTE - you are not allowed to use C++ libraries or data structures such as `vector`. In this assignment we will use only basic C arrays.
-
 
 ### Step 1 - Setup
 
